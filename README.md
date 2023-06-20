@@ -1,4 +1,4 @@
-# Pneumonia-test
+# Pneumonia-Daignosis
 Diagnosis of Pneumonia using CNN
 
 Set up the directory structure for the dataset:
